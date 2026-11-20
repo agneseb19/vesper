@@ -1,0 +1,6 @@
+node_modules
+dist
+*.mov
+.DS_Store
+# 4K source clips: the site only needs the frames in public/hero
+hero-src/*.mp4
